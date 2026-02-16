@@ -37,7 +37,8 @@ This cafe menu web page displays different food and beverage items with pricing 
 
 ## 📷 Preview
 
-(Add a screenshot of your project here)
+<img width="344" height="328" alt="image" src="https://github.com/user-attachments/assets/f2a28f65-4a0e-4481-a411-3535d1cd36a0" />
+
 
 ## 💡 Future Improvements
 
